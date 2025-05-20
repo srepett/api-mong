@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.creator = 'Zymzz'// yourname
-global.MONGO_DB_URI = "" //database mongodb 
+global.MONGO_DB_URI = "mongodb+srv://rest-api:SuryaSebiji1@rest-api.ps1xew4.mongodb.net/?retryWrites=true&w=majority&appName=Rest-api" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "ohh7myazim2007cam13@gmail.com" //email
 global.email_password = "ysvc oxac wxzj abaz" //application password email
